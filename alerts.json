@@ -100,7 +100,7 @@
   "VERSIONINFO_MENTION_VERSION": "{0} is momentan auf version **{1}**!",
   "CONNECTIONLOST": "Verbindung zu Discord verloren!",
   "SHEDULEDRESTART": "Geplanter Neustart!",
-  "APPTITLE_VERSION_AUTHOR": "Enchanted_Bot v{0} von {1}",
+  "APPTITLE_VERSION_AUTHOR": "Bot v{0} von {1}",
   "FORCEDRESTART": "Erzwungener Neustart!",
   "CONNECTIONFAILED": "Sieht so aus, als könnten wir keine Verbindung mit der DiscordAPI herstellen. Versuche es erneut.",
   "CLASSESLOADED": "Klassen erfolgreich geladen!",
